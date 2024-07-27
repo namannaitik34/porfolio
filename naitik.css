@@ -44,7 +44,30 @@ center {
   }
 .card{
   width: 346px; height: 520px;
-  background-color: rgb(177, 173, 168);
   border-radius: 0px;
+  background-color: black ; /* For browsers that do not support gradients */
+  background-image: linear-gradient(rgb(98, 93, 93) , white);
+
 
 }
+.foot{
+  background-color: rgb(151, 151, 147);
+}
+.center{
+  
+  margin-left: 47%;
+  
+}
+.Projects{
+  margin-left: 33%;
+  color: rgb(210, 153, 79);
+  font-size: 7rem;
+  opacity: 0.75;
+
+}
+.d-flex{
+  background-image: linear-gradient(#f8f7f4 , rgb(164, 164, 164));
+
+}
+
+
