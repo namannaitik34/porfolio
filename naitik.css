@@ -50,24 +50,71 @@ center {
 
 
 }
-.foot{
-  background-color: rgb(151, 151, 147);
-}
+
 .center{
+  text-align: center;
+  animation: fade-out-down 2s ease infinite;
+  }
+  @keyframes fade-out-down {
+    0% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+  }
   
-  margin-left: 47%;
-  
+.badge{
+  color: white;
+  margin-left: 840px;
 }
+  
+  
+
 .Projects{
-  margin-left: 33%;
+  text-align: center;
+  justify-content: center;
   color: rgb(210, 153, 79);
-  font-size: 7rem;
+  font-size: 3rem;
   opacity: 0.75;
+  margin-top: -12px;
 
 }
-.d-flex{
+.d-flex1{
   background-image: linear-gradient(#f8f7f4 , rgb(164, 164, 164));
+  filter: blur(100%);
+}
+
+.p-2{
+  text-align:  center;
+  margin-top: 30px;
+
+} 
+
+
+.flex-col{
+  width: 466px;
+  height:auto;
+  background-image: linear-gradient(rgb(243, 224, 87),white);
+  filter: blur(30%);
+  border-radius: 8%;
+  margin-top: 50px;
+}
+
+.d-flex-2{
+  width: 346px;
+  height: auto;
 
 }
+.navbar{
+  font-size: 20px;
+}
+.flex{
+  margin-left: 46px;
+}
+
+
 
 

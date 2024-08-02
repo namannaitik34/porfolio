@@ -1,0 +1,98 @@
+    <div class="row" style="margin-left: 100px; margin-top: 100px;">
+      <div class="col">
+        <div class="card" class="card1" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="tinder.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">Date Dash</h5>
+              <P class="card-text"> DateDash revolutionizes dating with a smart matching algorithm, real-time connections, and an intuitive swipe feature. Our verified profiles ensure authenticity and safety. Engage with interactive features like icebreaker questions, date planning tools, and in-app video calls. Join our community events to meet new people and have fun.</P>
+              <a href="https:https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+      <div class="col">
+        <div class="card" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="travel.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">Unravelling Horizons</h5>
+              <P class="card-text">Unravelling Horizons makes travel easy with personalized itineraries, real-time booking, and verified reviews. Plan trips effortlessly with our intuitive tools and in-app support. Join community events to connect with fellow travelers. Download TravelDash today and embark on unforgettable adventures.</P>
+              <a href="https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+      <div class="col">
+        <div class="card" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="tracking.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">WhenWhere</h5>
+              <P class="card-text">WhenWhere offers seamless real-time tracking for people, packages, and vehicles. Stay updated with accurate location data and instant notifications. Our user-friendly interface ensures effortless navigation and reliable tracking. Share live locations with ease and enhance safety. Download WhenWhere today to stay connected and informed, no matter where or when.
+
+              </P>
+              <a href="https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+    </div>
+    <div class="row" style="margin-left: 100px; margin-top: 90px;">
+      <div class="col">
+        <div class="card" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="company.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">Craftify</h5>
+              <P class="card-text">Craftify creates personalized portfolio websites tailored to showcase your unique brand. Our services include graphic design, SEO, front-end engineering, back-end development, and comprehensive website design. Engage visitors with stunning visuals and optimized content. Choose WebMastery for a complete digital solution that elevates your brand.
+
+              </P>
+              <a href="https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+      <div class="col">
+        <div class="card" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="coming soon.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">Card tittle</h5>
+              <P class="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem esse ex molestias! Accusantium, cum odio vitae eaque, possimus quaerat beatae commodi hic dolore quis perspiciatis ipsa facere tempora ex nisi.</P>
+              <a href="https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+      <div class="col">
+        <div class="card" style="width: 343px; height: 590px;">
+          <img class="card-img-top" src="coming soon.png" alt="card image cap">
+          <div class="card-body">
+              <h5 class="card-title">Card tittle</h5>
+              <P class="card-text"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem esse ex molestias! Accusantium, cum odio vitae eaque, possimus quaerat beatae commodi hic dolore quis perspiciatis ipsa facere tempora ex nisi.</P>
+              <a href="https://github.com/namannaitik34" class="btn btn-light">Buy now</a>
+          </div>
+        </div> 
+      </div>
+
+    </div>
+
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-light btn-light" style="font-size: 20px;">
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <a class="navbar-brand" href="#">
+            <strong style="font: size 1.2rem; text-align-last: justify;">Naitik Kr. Shrivastawa</strong>
+          </a>
+          
+  
+        <ul class="navbar-nav" >
+          <li style="margin-left: 990px;">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Projects</a>
+          </li>        
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+          </li>
+        </ul>
+      </div>
+    </nav>
